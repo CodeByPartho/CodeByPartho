@@ -1,4 +1,4 @@
-:wave: Hey there, I'm [@CodeByPartho](https://github.com/CodeByPartho) – your DevOps enthusiast!
+:wave: Hey there, I'm [Partho](https://github.com/CodeByPartho) – your DevOps enthusiast!
 
 :rocket: Currently immersed in the world of DevOps, specializing in containerization servers.</br>
 :whale: Containerization wizard with a passion for optimizing workflows.</br>
