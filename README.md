@@ -2,7 +2,7 @@
 
 :rocket: Currently immersed in the world of DevOps, specializing in containerization servers.</br>
 :whale: Containerization wizard with a passion for optimizing workflows.</br>
-:computer: Expertise: Python, JavaScript, HTML.
+:computer: Expertise: Python, JavaScript, HTML. 
 
 :speech_balloon: Let's chat about DevOps, containers, and the tech world!
 
