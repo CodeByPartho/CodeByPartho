@@ -2,10 +2,10 @@
 
   <h1>Hi, I'm Partho 👋</h1>
 
-  <h3>Software Engineer & AI App Developer • Full Stack Developer • Open Source Builder</h3>
+  <h3>Software Engineer & Full Stack Developer • Open Source Builder</h3>
 
   <p>
-    Building mobile apps, on-device AI inference systems, real-time web applications, and interactive 3D graphics.
+    Building mobile apps, real-time web applications, desktop tools, and interactive 3D graphics.
   </p>
 
   <p>
@@ -29,7 +29,7 @@
 
   <br />
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=39FF88&center=true&vCenter=true&width=750&lines=%24+whoami;%3E+Software+Engineer+%26+AI+App+Developer;%3E+Full+Stack+Developer;%3E+Open+Source+Builder;%3E+Building+On-Device+Neural+Engines...;%3E+Creating+Real-Time+Web+Systems..." alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=39FF88&center=true&vCenter=true&width=750&lines=%24+whoami;%3E+Software+Engineer;%3E+Full+Stack+Developer;%3E+Open+Source+Builder;%3E+Building+Modern+Web+%26+Mobile+Apps...;%3E+Creating+Real-Time+Systems..." alt="Typing Animation" />
 
 </div>
 
@@ -37,16 +37,16 @@
 
 # About Me
 
-I am a software engineer and full-stack developer focused on building reliable web and mobile applications, on-device machine learning workflows, and interactive graphics.
+I am a software engineer and full-stack developer focused on building reliable web and mobile applications, offline-first tools, and interactive graphics.
 
-My work includes running local quantized models on Android using `llama.cpp` and `LiteRT`, building developer tooling and agentic workflows, and developing real-time multiplayer web systems.
+My work spans cross-platform application development with Flutter, real-time multiplayer systems with WebSockets, and modern web applications with React and TypeScript.
 
 ### Currently Open To
 
 - **Software Engineer**
-- **AI / Machine Learning Engineer**
 - **Full Stack Developer**
-- **Systems & Mobile Developer (Flutter / Dart / C++)**
+- **Frontend / Mobile Developer (React / Flutter / TypeScript)**
+- **Systems & Backend Developer (Node.js / Python / C++)**
 - **Open Source Collaboration & Impactful Projects**
 
 ---
@@ -68,14 +68,6 @@ My work includes running local quantized models on Android using `llama.cpp` and
   <img src="https://skillicons.dev/icons?i=nodejs,supabase,postgres,flask,express" alt="Backend & Database" />
 </p>
 
-### AI / ML & Neural Compute
-<p>
-  <a href="https://github.com/ggerganov/llama.cpp"><img src="https://img.shields.io/badge/llama.cpp-FF6F00?style=for-the-badge" alt="llama.cpp" /></a>
-  <a href="https://ai.google.dev"><img src="https://img.shields.io/badge/LiteRT-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="LiteRT" /></a>
-  <a href="https://ollama.com"><img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" /></a>
-  <a href="https://ai.google.dev"><img src="https://img.shields.io/badge/Gemini_GenAI-8E75B2?style=for-the-badge&logo=google-gemini&logoColor=white" alt="Gemini GenAI" /></a>
-</p>
-
 ### Cloud, DevOps & Tools
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,linux,vscode,postman,netlify" alt="DevOps & Tools" />
@@ -83,29 +75,15 @@ My work includes running local quantized models on Android using `llama.cpp` and
 
 ---
 
-# AI & Machine Learning
-
-| Domain | Key Focus & Implementation |
-| :--- | :--- |
-| **Local LLM Inference** | Native `llama.cpp`, GGUF Quantization (Q4_K_M, Q8_0), Google LiteRT, ARM NEON acceleration |
-| **Persona Modeling & Context** | Dynamic persona injection, multi-turn few-shot calibration, ChatML, Llama-3, Gemma templating |
-| **Agentic Workflows** | Autonomous tool dispatch, AST-aware code refactoring engines, self-healing test verification harnesses |
-| **Cloud Model Integration** | Streaming APIs across OpenAI, Anthropic Claude, Google Gemini, DeepSeek, and OpenRouter |
-| **On-Device API Serving** | In-app `/v1/chat/completions` HTTP servers with LAN binding and API key authorization |
-| **Computer Vision** | Multimodal vision models (Qwen2-VL), base64 image parsing, UI scenario extraction |
-| **MLOps & Deployment** | Dockerized MTProto daemons, background token streaming, automated GitHub Actions CI/CD |
-
----
-
 # Featured Projects
 
 | Project | Description | Highlights |
 | :--- | :--- | :--- |
-| **[ECHO](https://github.com/CodeByPartho/ECHO)** | Private, 100% offline mobile AI assistant with unlimited persona cloning.<br />Selected for the [XERJ Corpus Hub](https://xerj.org) as a reference for high-quality UI architecture and state management. | Flutter, llama.cpp GGUF, LiteRT, GetX, Hive |
+| **[ECHO](https://github.com/CodeByPartho/ECHO)** | Private, 100% offline mobile chat application with custom persona management | Flutter, Dart, GetX, Hive |
 | **[3D Interactive Portfolio](https://github.com/CodeByPartho/partho-3d-portfolio)** | WebGL developer showcase featuring interactive canvas scenes | Three.js, React Three Fiber, Rapier physics, GSAP • [Live Demo](https://parthosarothipaik.netlify.app/) |
 | **[FreeChess](https://github.com/CodeByPartho/chess-multiplayer)** | Real-time multiplayer chess with in-browser Stockfish evaluation | React 19, Stockfish 19 WASM, Supabase Realtime, Vite • [Live Demo](https://chess-multiplayer-788.netlify.app/) |
-| **[Qwen Coding Agent](https://github.com/CodeByPartho/Qwen-Coding-Agent)** | An open-source AI agent application for automated code analysis, AST refactoring, and test verification | Ollama, OpenRouter, AST refactoring, Python |
-| **[Obsidian Lux](https://github.com/CodeByPartho/Obsedian-Lux)** | Modern e-commerce storefront with AI concierge styling | React 19, Tailwind CSS v4, Motion, Google GenAI |
+| **[Qwen-Coding-Agent](https://github.com/CodeByPartho/Qwen-Coding-Agent)** | A lightweight desktop interface for local text generation and automated code analysis | Python, AST refactoring, Pygame |
+| **[Obsidian Lux](https://github.com/CodeByPartho/Obsedian-Lux)** | Modern e-commerce storefront with interactive styling concierge | React 19, Tailwind CSS v4, Motion |
 | **[SOS Guard](https://github.com/CodeByPartho/SOS-Web-App)** | Emergency beacon web application with Web Audio siren synthesis and GPS dispatch | Geolocation API, Web Audio API, LocalStorage, CSS3 |
 
 ---
