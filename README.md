@@ -101,7 +101,7 @@ My work spans edge AI engineering (quantized GGUF inference via `llama.cpp` and 
 
 | Project | Description | Highlights |
 | :--- | :--- | :--- |
-| 📱 **[ECHO](https://github.com/CodeByPartho/ECHO)** | Private, 100% offline mobile AI assistant with unlimited persona cloning | Flutter, llama.cpp GGUF, LiteRT, GetX, Hive |
+| 📱 **[ECHO](https://github.com/CodeByPartho/ECHO)** | Private, 100% offline mobile AI assistant with unlimited persona cloning.<br />🏆 *Selected for the [XERJ Corpus Hub](https://xerj.org) as a reference implementation for AI coding agents.* | Flutter, llama.cpp GGUF, LiteRT, GetX, Hive |
 | ✨ **[3D Interactive Portfolio](https://github.com/CodeByPartho/partho-3d-portfolio)** | Immersive WebGL developer showcase featuring interactive canvas scenes | Three.js, React Three Fiber, Rapier physics, GSAP • [Live Demo](https://parthosarothipaik.netlify.app/) |
 | ♟️ **[FreeChess](https://github.com/CodeByPartho/chess-multiplayer)** | Frictionless real-time multiplayer chess with in-browser Stockfish evaluation | React 19, Stockfish 19 WASM, Supabase Realtime, Vite • [Live Demo](https://chess-multiplayer-788.netlify.app/) |
 | 🤖 **[Qwen Coding Agent](https://github.com/CodeByPartho/Qwen-Coding-Agent)** | Autonomous codebase engineering harness powered by Qwen 2.5 Coder | Ollama, OpenRouter, AST refactoring, self-healing tests |
