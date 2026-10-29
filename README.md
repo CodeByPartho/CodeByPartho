@@ -5,7 +5,7 @@
   <h3>Software Engineer & AI App Developer • Full Stack Developer • Open Source Builder</h3>
 
   <p>
-    Architecting private on-device neural inference engines, real-time multiplayer platforms, and immersive 3D graphics experiences.
+    Building mobile apps, on-device AI inference systems, real-time web applications, and interactive 3D graphics.
   </p>
 
   <p>
@@ -35,23 +35,23 @@
 
 ---
 
-# 📖 About Me
+# About Me
 
-I am a **Software Engineer & AI App Developer**, **Full-Stack Developer**, and **Open Source Builder** passionate about building robust systems architectures, low-level neural model execution, and reactive user interfaces.
+I am a software engineer and full-stack developer focused on building reliable web and mobile applications, on-device machine learning workflows, and interactive graphics.
 
-My work spans edge AI engineering (quantized GGUF inference via `llama.cpp` and `LiteRT` on mobile devices), agentic AI workflows, real-time distributed web applications, and interactive 3D WebGL scenes.
+My work includes running local quantized models on Android using `llama.cpp` and `LiteRT`, building developer tooling and agentic workflows, and developing real-time multiplayer web systems.
 
-### 🎯 Currently Open To
+### Currently Open To
 
-- 🚀 **Software Engineer**
-- 🧠 **AI / Machine Learning Engineer**
-- ⚡ **Full Stack Developer**
-- 🛠️ **Systems & Mobile Developer (Flutter / Dart / C++)**
-- 🤝 **Open Source Collaboration & High-Impact Projects**
+- **Software Engineer**
+- **AI / Machine Learning Engineer**
+- **Full Stack Developer**
+- **Systems & Mobile Developer (Flutter / Dart / C++)**
+- **Open Source Collaboration & Impactful Projects**
 
 ---
 
-# 🛠️ Tech Stack
+# Tech Stack
 
 ### Languages
 <p>
@@ -83,34 +83,34 @@ My work spans edge AI engineering (quantized GGUF inference via `llama.cpp` and 
 
 ---
 
-# 🧠 AI / ML Expertise
+# AI & Machine Learning
 
-| Domain | Proficiency | Details |
-| :--- | :---: | :--- |
-| **Local LLM Inference** | ⭐⭐⭐⭐⭐ | Native `llama.cpp`, GGUF Quantization (Q4_K_M, Q8_0), Google LiteRT, ARM NEON acceleration |
-| **Persona Modeling & Context Architecture** | ⭐⭐⭐⭐⭐ | Dynamic persona injection, multi-turn few-shot calibration, ChatML, Llama-3, Gemma templating |
-| **Agentic AI Workflows** | ⭐⭐⭐⭐⭐ | Autonomous tool dispatch, AST-aware code refactoring engines, self-healing test verification harnesses |
-| **Frontier Cloud Integration** | ⭐⭐⭐⭐⭐ | Streaming APIs across OpenAI, Anthropic Claude, Google Gemini, DeepSeek, and OpenRouter |
-| **On-Device API Serving** | ⭐⭐⭐⭐⭐ | In-app `/v1/chat/completions` HTTP servers with LAN binding and API key authorization |
-| **Computer Vision & Multimodal** | ⭐⭐⭐⭐ | Multimodal vision models (Qwen2-VL), base64 image parsing, UI scenario extraction |
-| **MLOps & Deployment** | ⭐⭐⭐⭐ | Dockerized MTProto daemons, background token streaming, automated GitHub Actions CI/CD |
+| Domain | Key Focus & Implementation |
+| :--- | :--- |
+| **Local LLM Inference** | Native `llama.cpp`, GGUF Quantization (Q4_K_M, Q8_0), Google LiteRT, ARM NEON acceleration |
+| **Persona Modeling & Context** | Dynamic persona injection, multi-turn few-shot calibration, ChatML, Llama-3, Gemma templating |
+| **Agentic Workflows** | Autonomous tool dispatch, AST-aware code refactoring engines, self-healing test verification harnesses |
+| **Cloud Model Integration** | Streaming APIs across OpenAI, Anthropic Claude, Google Gemini, DeepSeek, and OpenRouter |
+| **On-Device API Serving** | In-app `/v1/chat/completions` HTTP servers with LAN binding and API key authorization |
+| **Computer Vision** | Multimodal vision models (Qwen2-VL), base64 image parsing, UI scenario extraction |
+| **MLOps & Deployment** | Dockerized MTProto daemons, background token streaming, automated GitHub Actions CI/CD |
 
 ---
 
-# 🌟 Featured Projects
+# Featured Projects
 
 | Project | Description | Highlights |
 | :--- | :--- | :--- |
-| 📱 **[ECHO](https://github.com/CodeByPartho/ECHO)** | Private, 100% offline mobile AI assistant with unlimited persona cloning.<br />🏆 *Selected for the [XERJ Corpus Hub](https://xerj.org) as a reference for high-quality UI architecture and state management.* | Flutter, llama.cpp GGUF, LiteRT, GetX, Hive |
-| ✨ **[3D Interactive Portfolio](https://github.com/CodeByPartho/partho-3d-portfolio)** | Immersive WebGL developer showcase featuring interactive canvas scenes | Three.js, React Three Fiber, Rapier physics, GSAP • [Live Demo](https://parthosarothipaik.netlify.app/) |
-| ♟️ **[FreeChess](https://github.com/CodeByPartho/chess-multiplayer)** | Frictionless real-time multiplayer chess with in-browser Stockfish evaluation | React 19, Stockfish 19 WASM, Supabase Realtime, Vite • [Live Demo](https://chess-multiplayer-788.netlify.app/) |
-| 🤖 **[Qwen Coding Agent](https://github.com/CodeByPartho/Qwen-Coding-Agent)** | An open-source AI agent application for automated code analysis, AST refactoring, and test verification | Ollama, OpenRouter, AST refactoring, self-healing tests |
-| 💎 **[Obsidian Lux](https://github.com/CodeByPartho/Obsedian-Lux)** | Dark-luxury e-commerce experience with Gemini-powered AI concierge styling | React 19, Tailwind CSS v4, Motion, Google GenAI |
-| 🚨 **[SOS Guard](https://github.com/CodeByPartho/SOS-Web-App)** | Standalone emergency beacon with Web Audio siren synthesis & GPS dispatch | Geolocation API, Web Audio API, LocalStorage, CSS3 |
+| **[ECHO](https://github.com/CodeByPartho/ECHO)** | Private, 100% offline mobile AI assistant with unlimited persona cloning.<br />Selected for the [XERJ Corpus Hub](https://xerj.org) as a reference for high-quality UI architecture and state management. | Flutter, llama.cpp GGUF, LiteRT, GetX, Hive |
+| **[3D Interactive Portfolio](https://github.com/CodeByPartho/partho-3d-portfolio)** | WebGL developer showcase featuring interactive canvas scenes | Three.js, React Three Fiber, Rapier physics, GSAP • [Live Demo](https://parthosarothipaik.netlify.app/) |
+| **[FreeChess](https://github.com/CodeByPartho/chess-multiplayer)** | Real-time multiplayer chess with in-browser Stockfish evaluation | React 19, Stockfish 19 WASM, Supabase Realtime, Vite • [Live Demo](https://chess-multiplayer-788.netlify.app/) |
+| **[Qwen Coding Agent](https://github.com/CodeByPartho/Qwen-Coding-Agent)** | An open-source AI agent application for automated code analysis, AST refactoring, and test verification | Ollama, OpenRouter, AST refactoring, Python |
+| **[Obsidian Lux](https://github.com/CodeByPartho/Obsedian-Lux)** | Modern e-commerce storefront with AI concierge styling | React 19, Tailwind CSS v4, Motion, Google GenAI |
+| **[SOS Guard](https://github.com/CodeByPartho/SOS-Web-App)** | Emergency beacon web application with Web Audio siren synthesis and GPS dispatch | Geolocation API, Web Audio API, LocalStorage, CSS3 |
 
 ---
 
-# 📊 GitHub Profile Summary
+# GitHub Profile Summary
 
 <div align="center">
 
@@ -133,33 +133,11 @@ My work spans edge AI engineering (quantized GGUF inference via `llama.cpp` and 
 
 ---
 
-# 🐍 Contribution Snake
-
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/CodeByPartho/CodeByPartho/output/github-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/CodeByPartho/CodeByPartho/output/github-snake.svg"
-    />
-    <img
-      alt="GitHub Contribution Snake"
-      src="https://raw.githubusercontent.com/CodeByPartho/CodeByPartho/output/github-snake.svg"
-    />
-  </picture>
-</p>
-
----
-
-# 🌐 Connect With Me
+# Connect With Me
 
 <p align="center">
   <a href="https://parthosarothipaik.netlify.app/"><b>Website / Portfolio</b></a> •
   <a href="https://www.linkedin.com/in/partho-sarothi-paik/"><b>LinkedIn</b></a> •
-  <a href="https://x.com/partho_sarothi"><b>X / Twitter</b></a> •
   <a href="https://github.com/CodeByPartho"><b>GitHub</b></a> •
   <a href="mailto:howladermamata1@gmail.com"><b>Email</b></a>
 </p>
@@ -170,6 +148,6 @@ My work spans edge AI engineering (quantized GGUF inference via `llama.cpp` and 
 
 > *"Building software with privacy by design, native performance, and aesthetic precision."*
 
-<p align="center">Made with ❤️ by Partho</p>
+<p align="center">Built by Partho</p>
 
 </div>
