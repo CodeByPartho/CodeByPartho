@@ -79,7 +79,7 @@ My work spans cross-platform application development with Flutter, real-time mul
 
 | Project | Description | Highlights |
 | :--- | :--- | :--- |
-| **[ECHO](https://github.com/CodeByPartho/ECHO)** | Private, 100% offline mobile chat application with custom persona management | Flutter, Dart, GetX, Hive |
+| **[ECHO](https://github.com/CodeByPartho/ECHO)** | Private, 100% offline mobile chat application with custom persona management<br /><br />*Featured Contributor on the [XERJ Corpus Hub](https://hub.xerj.org/contributors/CodeByPartho) for high-quality UI architecture.* | Flutter, Dart, GetX, Hive |
 | **[3D Interactive Portfolio](https://github.com/CodeByPartho/partho-3d-portfolio)** | WebGL developer showcase featuring interactive canvas scenes | Three.js, React Three Fiber, Rapier physics, GSAP • [Live Demo](https://parthosarothipaik.netlify.app/) |
 | **[FreeChess](https://github.com/CodeByPartho/chess-multiplayer)** | Real-time multiplayer chess with in-browser Stockfish evaluation | React 19, Stockfish 19 WASM, Supabase Realtime, Vite • [Live Demo](https://chess-multiplayer-788.netlify.app/) |
 | **[Qwen-Coding-Agent](https://github.com/CodeByPartho/Qwen-Coding-Agent)** | A lightweight desktop interface for local text generation and automated code analysis | Python, AST refactoring, Pygame |
