@@ -117,7 +117,8 @@ My work spans cross-platform application development with Flutter, real-time mul
   <a href="https://parthosarothipaik.netlify.app/"><b>Website / Portfolio</b></a> •
   <a href="https://www.linkedin.com/in/partho-sarothi-paik/"><b>LinkedIn</b></a> •
   <a href="https://github.com/CodeByPartho"><b>GitHub</b></a> •
-  <a href="mailto:parthosarothipaik@gmail.com"><b>Email</b></a>
+  <a href="mailto:parthosarothipaik@gmail.com"><b>Email</b></a> •
+  <a href="Partho-Sarothi-Paik-CV.pdf"><b>Download my CV</b></a>
 </p>
 
 ---
