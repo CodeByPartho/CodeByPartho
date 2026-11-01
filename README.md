@@ -12,7 +12,7 @@
     <a href="https://parthosarothipaik.netlify.app/">
       <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-39FF88?style=for-the-badge&labelColor=0D1117&logo=firefoxbrowser&logoColor=39FF88" alt="Portfolio" />
     </a>
-    <a href="https://www.linkedin.com/in/partho-sarothi-paik-1525ab448/">
+    <a href="https://www.linkedin.com/in/partho-sarothi-paik/">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-39FF88?style=for-the-badge&labelColor=0D1117&logo=linkedin&logoColor=39FF88" alt="LinkedIn" />
     </a>
     <a href="mailto:parthosarothipaik@gmail.com">
