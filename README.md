@@ -12,10 +12,10 @@
     <a href="https://parthosarothipaik.netlify.app/">
       <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-39FF88?style=for-the-badge&labelColor=0D1117&logo=firefoxbrowser&logoColor=39FF88" alt="Portfolio" />
     </a>
-    <a href="https://www.linkedin.com/in/partho-sarothi-paik/">
+    <a href="https://www.linkedin.com/in/partho-sarothi-paik-1525ab448/">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-39FF88?style=for-the-badge&labelColor=0D1117&logo=linkedin&logoColor=39FF88" alt="LinkedIn" />
     </a>
-    <a href="mailto:howladermamata1@gmail.com">
+    <a href="mailto:parthosarothipaik@gmail.com">
       <img src="https://img.shields.io/badge/Email-Contact-39FF88?style=for-the-badge&labelColor=0D1117&logo=gmail&logoColor=39FF88" alt="Email" />
     </a>
     <a href="https://github.com/CodeByPartho">
